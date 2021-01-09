@@ -1,0 +1,550 @@
+// Game intro
+Hello, welcome to the game
+To get a list of commands enter "help" at any point
+Are you ready to begin? (Yes / No)
+
+// Help menu
+The help menu:
+Useful commands:
+- attack [enemy]
+- eat [item]
+- move [cardinal direction]
+- search area
+- pick up [item]
+- show stats
+- save and exit
+
+// First speech
+You find yourself on an abandoned island
+There is a jungle to the north, and the open sea in every other direction
+- Move around to explore
+
+//Game over
+Your health has depleted to zero
+Game over!!!
+
+// Invalid command
+Invalid command
+Please try again
+Enter [help] for a list of commands
+
+// Rusty knife
+You picked up the knife, but it cut you
+
+// Bottle of water
+The refreshing water gave you some health
+
+// map
+The map you found is a map of Paris
+Not too handy
+
+// Photo
+You picked up a photo
+Looks like it's of a child
+
+// shell
+The shell you picked up scraped you
+
+// Location 0
+There is a jungle to the north, and the open sea in every other direction
+
+// Location 1
+You are in a jungle
+There is a small beach to the south, but jungle in all other directions
+
+// Location 2
+You are on a beach
+There is ocean to the west and south, and beach in all other directions
+
+// Location 3
+You are on a beach
+There is ocean to the south, beach to the north and west, and jungle to the east
+
+// Location 4
+You are in a jungle
+There is ocean to the south, beach to the west, and jungle to the north and the east
+
+// Location 5
+You are in a jungle
+There is ocean to the south, and jungle in all other directions
+
+// Location 6
+You are in a jungle
+There is ocean to the south, and jungle in all other directions
+
+// Location 7
+You are in a jungle
+There is ocean to the south, and jungle in all other directions
+
+// Location 8
+You are in a jungle
+There is ocean to the south, and jungle in all other directions
+
+// Location 9
+You are in a jungle
+There is ocean to the south, and jungle in all other directions
+
+// Location 10
+You are in a jungle
+There is ocean to the south, and jungle in all other directions
+
+// Location 11
+You are in a jungle
+There is ocean to the south, beach to the west and the north, and jungle to the east
+
+// Location 12
+You are on a beach
+There is ocean to the south, jungle to the west and north, and beach to the east
+
+// Location 13
+You are on a beach
+There is ocean to the south, and beach in all other directions
+
+// Location 14
+You are on a beach
+There is ocean to the south, and beach in all other directions
+
+// Location 15
+You are on a beach
+There is ocean to the south and east, and beach in the north and the west
+
+// Location 16
+You are on a beach
+There is ocean to the west, and beach in all other directions
+
+// Location 17
+You are on a beach
+There is beach to the west and the south, and jungle to the east and north
+
+// Location 18
+You are in a jungle
+There is beach to the west, and jungle in all other directions
+
+// Location 19
+You are in a jungle
+There is jungle in all directions
+
+// Location 20
+See location 19
+
+// Location 21
+You are in a jungle
+There is a pond to the north, and jungle in all other directions
+
+// Location 22
+You are in a jungle
+There is a pond to the north, and jungle in all other directions
+
+// Location 23
+See location 19
+
+// Location 24
+You are in a jungle
+There is a strange structure to the north, and jungle in all other directions
+
+// Location 25
+See location 19
+
+// Location 26
+See location 19
+
+// Location 27
+You are in a jungle
+There is jungle to the north and the west, and beach to the south and east
+
+// Location 28
+You are on a beach
+There is jungle to the north and the west, and beach to the south and east
+
+// Location 29
+You are on a beach, and find yourself slowly sinking
+There is beach in all directions
+
+// Location 30
+You are on a beach
+There is beach in all directions
+
+// Location 31
+You are on a beach
+There is beach the north and the west, ocean to the south,
+and oop, a friendly sea monster to the east
+
+// Location 32
+You are on a beach
+There is ocean to the south and the west, and beach to the north and the east
+
+// Location 33
+You are on a beach
+There is ocean to the south, beach to the east and the west, and jungle to the north
+
+// Location 34
+You are on a beach
+There is beach to the south and the west, and jungle to the north and the east
+
+// Location 35
+You are in a jungle
+There is beach to the south and west, and jungle to the north and the east
+
+// Location 36
+See location 19
+
+// Location 37
+You are in a jungle
+There is a strange structure to the north, and jungle in all other directions
+
+// Location 38
+You are in a jungle
+There is a pond to the east, and jungle in all other directions
+
+// Location 39
+You are in a jungle
+There is a strange structure to the east, a pond to the west, and jungle to the north and the south
+
+// Location 40
+You are in a jungle, surrounded by towering ruins of a lost civilization
+There is jungle in all directions
+
+// Location 41
+You are in a jungle
+There is a strange structure to the west, and jungle in all other directions
+
+// Location 42
+You are in a jungle, there is a pile of discarded muffin tins
+There is jungle in all directions
+
+// Location 43
+See location 19
+
+// Location 44
+You are in a jungle
+There is jungle to the west, and beach in all other directions
+
+// Location 45
+You are on a beach
+There is jungle to the west, and beach in all other directions
+
+// Location 46
+You are on a beach
+There is ocean to the north, and beach in all other directions
+
+// Location 47
+You are on a beach
+There is beach to the south and west, and ocean to the north and the east
+
+// Location 48
+You are on a beach
+There is ocean to the west, jungle to the east, and beach to the north and the south
+
+// Location 49
+You are in a jungle
+There is beach to the south and the west, and jungle to the north and the east
+
+// Location 50
+You are in a jungle
+There is a strange structure to the north, beach to the south,
+and jungle to the east and the west
+
+// Location 51
+See location 19
+
+// Location 52
+You are in a jungle
+There is a strange structure to the east, and jungle in all other directions
+
+// Location 53
+You are in a jungle, surrounded by towering ruins of a lost civilization
+There is jungle in all directions
+
+// Location 54
+You are in a jungle
+There is a strange structure to the west, and jungle in all other directions
+
+// Location 55
+You are in a jungle
+There is a strange structure to the north, jungle to the west,
+and a pond to the south and the east.
+A hippo stares at you from the east
+
+// Location 56
+You are in a jungle
+A hippo is swimming in a pond to the west, and there is jungle in all other directions
+
+// Location 57
+You are in a jungle
+There is a strange structure to the south, and jungle in all other directions
+
+// Location 58
+See location 19
+
+// Location 59
+See location 19
+
+// Location 60
+You are in a jungle
+There is beach to the east, and jungle in all other directions
+
+// Location 61
+You are on a beach
+There is jungle to the south and the west, and beach to the north and the east
+
+// Location 62
+You are on a beach
+There is beach to the south and the west, and ocean to the north and the east
+
+// Location 63
+You are on a beach
+There is ocean to west, beach to the north and the south, and jungle to the east
+
+// Location 64
+You are in a jungle
+There is a strange structure to the east, beach to the north and the west,
+and jungle to the south
+
+// Location 65
+You are in a jungle, surrounded by towering ruins of a lost civilization
+There is jungle in all directions
+
+// Location 66
+You are in a jungle
+There is a strange structure to the west, and jungle in all other directions
+
+// Location 67
+You are in a jungle
+There is jungle in all directions
+
+// Location 68
+You are in a jungle
+There are strange structures to the north and the south, and jungle to the east and the west
+
+// Location 69
+You are in a jungle
+There is a strange structure to the east, and jungle in all other directions
+
+// Location 70
+You are in a jungle, surrounded by towering ruins of a lost civilization
+There is jungle in all directions
+
+// Location 71
+You are in a jungle
+There is a strange structure to the west,
+a hippo is swimming in a pond to the south, and jungle to the north and the east
+
+// Location 72
+See location 19
+
+// Location 73
+You are in a jungle
+There is a ravine to the north, and jungle in all other directions
+
+// Location 74
+See location 19
+
+// Location 75
+See location 19
+
+// Location 76
+You are in a jungle
+There is beach to the east, and jungle in all other directions
+
+// Location 77
+You are on a beach
+There is jungle to the west, ocean to the east, and beach to the north and the south
+
+// Location 78
+You are on a beach, there is a weathered raft
+There is ocean to the north and the west, and beach to the south and the east
+
+// Location 79
+You are on a beach
+There is beach to the west, ocean to the north, and jungle to the south and the east
+
+// Location 80
+You are in a jungle
+There is a strange structure to the south, beach to west, and jungle to the north and the east
+
+// Location 81
+See location 19
+
+// Location 82
+You are in a jungle
+There is a strange structure to the east, and jungle in all other directions
+
+// Location 83
+You are standing amidst towers of gold,
+a downward staircase spirals into darkness beneath the ground
+(Enter the command [move down] to enter the temple)
+There is jungle in all directions
+
+// Location 84
+You are in a jungle
+There is a strange structure to the west, there is jungle in all other directions
+
+// Location 85
+You are in a jungle
+There is beach the the south and the north, and jungle to the west and the east
+
+// Location 86
+See location 19
+
+// Location 87
+You are in a jungle
+There is a ravine to the east, and jungle in all other directions
+
+// Location 88
+You are in a jungle
+There is a ravine to the west, and jungle in all other directions
+
+// Location 89
+See location 19
+
+// Location 90
+You are in a jungle
+There is jungle to the south and the west, and beach to the north and the east
+
+// Location 91
+You are on a beach
+There is jungle to the west, ocean to the east, and beach to the south and the north
+
+// Location 92
+You are in a jungle
+There is ocean to the west, and jungle in all other directions
+
+// Location 93
+You are in a jungle
+There is a strange structure to the north, and jungle in all other directions
+
+// Location 94
+See location 19
+
+// Location 95
+You are in a jungle
+There is a strange structure to the south, beach to the north, and jungle to the east and the west
+
+// Location 96
+You are in a jungle
+There is a strange structure to the east, ocean to the north, and jungle to the south and the west
+
+// Location 97
+You are in a jungle, surrounded by towering ruins of a lost civilization
+There is ocean to the north, and jungle in all other directions
+
+// Location 98
+You are in a jungle
+There is a strange structure to the west, beach to the north,
+and jungle to the south and the east
+
+// Location 99
+You are in a jungle
+There is a ravine to the east, and jungle in all other directions
+
+// Location 100
+You are in a jungle
+There is a ravine to the west, and jungle in all other directions
+
+// Location 101
+You are in a jungle
+There is jungle to the south and the west, and beach to the north and the east
+
+// Location 102
+You are on a beach
+There is jungle to the south and the west, and beach to the north and the east
+
+// Location 103
+See location 19
+
+// Location 104
+You are on a beach
+There is beach to the north and the west, and ocean to the south and east
+
+// Location 105
+You are in a jungle
+There is a strange structure to the east, ocean to the west, and jungle to the south and the north
+
+// Location 106
+You are in a jungle, surrounded by towering ruins of a lost civilization
+There is jungle in all directions
+
+// Location 107
+You are in a jungle
+There is a strange structure to the west, jungle to the south, and beach to the north and the east
+
+// Location 108
+You are on a beach
+There is ocean to the east, beach to the north, and jungle to the south and the west
+
+// Location 109
+You are on a beach
+There is ocean to the west, beach to the north, and jungle to the south and the east
+
+// Location 110
+You are in a jungle
+There is a ravine to the east, jungle to the south, and beach to the north and the west
+
+// Location 111
+You are in a jungle
+There is a ravine to the west, jungle to the south, and beach to the north and the east
+
+// Location 112
+You are on a beach
+There is jungle to the south and the west, and beach to the north and the east
+
+// Location 113
+You are on a beach
+There is beach in all directions
+
+// Location 114
+You are on a beach
+There is beach in all directions
+
+// Location 115
+You are on a beach
+There is a dock to the east, and beach in all other directions
+
+// Location 116
+You are standing on a dock looking over the ocean
+There is dock to the north, beach to the west, and ocean to the south and the east
+
+// Location 117
+You are on a ridge overlooking the ocean, you watch the sky darken as the sun sets
+There is ocean to the north and the west, and jungle to the south and the east
+
+// Location 118
+You are in a jungle
+There is a strange structure to the south, jungle to the west, ocean to the north,
+and beach to the east
+
+// Location 119
+You are on a beach
+There ocean to the north, beach to the east, and jungle to the south and the west
+
+// Location 120
+You are on a beach
+There is beach to the south and the west, and ocean to the north and the east
+
+// Location 121
+You are on a beach
+There is beach to the south and the east, and ocean to the north and the west
+
+// Location 122
+You are on a beach
+There is a ravine to the east, ocean to the north, beach to the west, and jungle to the south
+
+// Location 123
+You are on a beach
+There is a ravine to the west, ocean to the north, and beach to the south and the east
+
+// Location 124
+You are on a beach
+There is ocean to the north, and beach in all other directions
+
+// Location 125
+You are on a beach
+There is ocean to the north, and beach in all other directions
+
+// Location 126
+You are on a beach
+There is a dock to the east, ocean to the north, and beach to the south and the west
+
+// Location 127
+You are standing on a dock looking over the ocean
+There is dock to the south, beach to the west, and ocean to the north and the east
