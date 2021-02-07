@@ -332,6 +332,8 @@ void createLocations()
     locationList[91].seek = 9949;
     locationList[91].lines = 2;
 
+
+
     locationList[110].itemPresent = itemList[1];
 
     locationList[113].enemyPresent = enemyList[2];
@@ -550,7 +552,7 @@ void parseCommand()
         eat(&input[4]);
     }else if (!strncasecmp(input, "save and exit", 13)) {
         saveAndExit();
-    }else if (!strncasecmp(input, "attack", 6)){
+    }else if (!strncasecmp(input, "attack", 6)) {
         attack(&input[7]);
     }else {
         printText(528, 3);
