@@ -1,3 +1,12 @@
+//     ___
+//    / _ \
+//   / /_\ \ __ _ _ __ ___   ___  _ __
+//   |  _  |/ _` | '_ ` _ \ / _ \| '_ \
+//   | | | | (_| | | | | | | (_) | | | |
+//   \_| |_/\__,_|_| |_| |_|\___/|_| |_|
+//
+//		GitHub: https://github.com/Aamon-Magnusson
+
 #include "game.h"
 
 int main(int args, char **argv)
